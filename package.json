@@ -1,0 +1,20 @@
+{
+  "name": "js-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kremlevmax/node-js-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kremlevmax/node-js-exercises/issues"
+  },
+  "homepage": "https://github.com/kremlevmax/node-js-exercises#readme",
+  "type": "module"
+}

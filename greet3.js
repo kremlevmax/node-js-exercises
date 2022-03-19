@@ -7,4 +7,4 @@ class Greeter {
   }
 }
 
-module.exports = new Greeter();
+export default Greeter;
